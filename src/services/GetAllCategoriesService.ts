@@ -1,7 +1,7 @@
 import { getRepository } from "typeorm";
 import { Category } from "../entities/Category";
 
-export class GetCategoriesService {
+export class GetAllCategoriesService {
     async execute() {
         const repo = getRepository(Category);
 
