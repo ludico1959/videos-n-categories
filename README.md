@@ -14,7 +14,8 @@ For more information, [click here](https://www.youtube.com/watch?v=9AO2hZJsHrs).
   - typescript v4.5.4 (devDependencie); 
   - ts-node-dev v1.1.8 (devDependencie); 
 - JSON data (for sending and returning data);
-- Postman v8.12.5 (for testing endpoits).
+- Postman v8.12.5 (for testing endpoits);
+- Docker Desktop v20.10.11.
 
 ## 📮 Testing endpoints
 
