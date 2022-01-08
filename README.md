@@ -1,6 +1,6 @@
 # Rocketseat #code/drops 113 🎥🎞
 
-This is a CRUD with Node.JS, Express, TypeORM and PostgreSQL about videos/films and its categories. 
+This is a CRUD with Node.JS, Express, TypeORM and PostgreSQL about videos/films and their categories. 
 
 For more information, [click here](https://www.youtube.com/watch?v=9AO2hZJsHrs).
 
