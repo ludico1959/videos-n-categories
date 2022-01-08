@@ -86,7 +86,7 @@ By typing the statement above, it will automatically download all the dependenci
 Well, now on the same cmd.exe screen (or another command-line interpreter), just start the server for the project to run locally typing:
 
 ```
-yarn dev
+ts-node-dev --transpile-only src/server.ts
 ```
 
 ## 📮 Testing endpoints
