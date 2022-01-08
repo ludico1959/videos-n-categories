@@ -15,3 +15,10 @@ For more information, [click here](https://www.youtube.com/watch?v=9AO2hZJsHrs).
   - ts-node-dev v1.1.8 (devDependencie); 
 - JSON data (for sending and returning data);
 - Postman v8.12.5 (for testing endpoits).
+
+## 📮 Testing endpoints
+
+You can test the CRUD operations using an API test tool like Postman or Insomnia! Just import the file named is **postman_collection.json**.
+
+* **Postman**: If you don't have it, just download it [here](https://www.postman.com/downloads/). 
+* **Insomnia**: If you don't have it, just download it [here](https://insomnia.rest/download/).
