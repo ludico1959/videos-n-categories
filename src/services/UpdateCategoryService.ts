@@ -13,7 +13,7 @@ export class UpdateCategoryService {
 
         const category = await repo.findOne(id);
 
-        if(!category) {
+        if (!category) {
             return new Error("Category does not exists.")
         }
 
