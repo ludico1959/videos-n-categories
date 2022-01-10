@@ -46,7 +46,7 @@ We will use a Docker container to create a PostgreSQL database. For that, you fi
 ```
 After that, just type to see the container's ID. 
 ```
-  docker-compose up -d
+  docker ps
 ```
 Now type the command below, just changing the placeholder %ID% for the ID of the container.
 ```
