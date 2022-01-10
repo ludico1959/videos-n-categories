@@ -61,7 +61,7 @@ And create a database and connect to it using the commands below, but before, ju
   create database %DATABASENAME%
 ```
 ```
-  \c code_drops_crud
+  \c %DATABASENAME%
 ```
 
 
