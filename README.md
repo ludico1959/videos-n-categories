@@ -89,7 +89,7 @@ Well, now on the same cmd.exe screen (or another command-line interpreter), just
 ts-node-dev --transpile-only src/server.ts
 ```
 
-## 📮 Testing endpoints
+## 📟 Test
 
 You can test the CRUD operations using an API test tool like Postman or Insomnia! Just import the file named is **postman_collection.json**.
 
