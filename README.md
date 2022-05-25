@@ -1,4 +1,4 @@
-# Rocketseat #code/drops 113 🎥🎞
+# Videos and Categories 🎥🎞
 
 This is a CRUD with Node.JS, Express, TypeORM and PostgreSQL about videos/films and their categories. 
 
